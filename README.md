@@ -48,11 +48,3 @@ python main.py
 
 ![App Screenshot](./screenshots/s1.png)
 ![App Screenshot](./screenshots/s2.png)
-
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute it as per the terms of the license.
-
-## Authors
-
-"This application was made by a drunk student." - [@duisternis](https://www.github.com/duisternis)
